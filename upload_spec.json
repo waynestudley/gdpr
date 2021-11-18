@@ -1,0 +1,353 @@
+{
+    "made_files": {
+        "0": {
+            "file_name": "58a42f9b85704.css",
+            "file_path": "\/home\/elucidat\/elucidat-authoring-tool-build\/_userPublish\/production_57e3a4304b241_release_58a42f9b85704\/assets\/58a42f9b85704.css",
+            "content_type": "text\/css"
+        },
+        "1": {
+            "file_name": "58a42f9b85704.js",
+            "file_path": "\/home\/elucidat\/elucidat-authoring-tool-build\/_userPublish\/production_57e3a4304b241_release_58a42f9b85704\/assets\/58a42f9b85704.js",
+            "content_type": "application\/javascript"
+        },
+        "2": {
+            "file_name": "5888d6b1831b0.js",
+            "file_path": "\/home\/elucidat\/elucidat-authoring-tool-build\/_userPublish\/production_57e3a4304b241_release_58a42f9b85704\/pages\/5888d6b1831b0.js",
+            "content_type": "application\/javascript"
+        },
+        "3": {
+            "file_name": "5888d6b188c84.js",
+            "file_path": "\/home\/elucidat\/elucidat-authoring-tool-build\/_userPublish\/production_57e3a4304b241_release_58a42f9b85704\/pages\/5888d6b188c84.js",
+            "content_type": "application\/javascript"
+        },
+        "4": {
+            "file_name": "5888d6b18e034.js",
+            "file_path": "\/home\/elucidat\/elucidat-authoring-tool-build\/_userPublish\/production_57e3a4304b241_release_58a42f9b85704\/pages\/5888d6b18e034.js",
+            "content_type": "application\/javascript"
+        },
+        "5": {
+            "file_name": "5888d6b1936f8.js",
+            "file_path": "\/home\/elucidat\/elucidat-authoring-tool-build\/_userPublish\/production_57e3a4304b241_release_58a42f9b85704\/pages\/5888d6b1936f8.js",
+            "content_type": "application\/javascript"
+        },
+        "6": {
+            "file_name": "5888d6b1991bf.js",
+            "file_path": "\/home\/elucidat\/elucidat-authoring-tool-build\/_userPublish\/production_57e3a4304b241_release_58a42f9b85704\/pages\/5888d6b1991bf.js",
+            "content_type": "application\/javascript"
+        },
+        "7": {
+            "file_name": "5888d6b19e755.js",
+            "file_path": "\/home\/elucidat\/elucidat-authoring-tool-build\/_userPublish\/production_57e3a4304b241_release_58a42f9b85704\/pages\/5888d6b19e755.js",
+            "content_type": "application\/javascript"
+        },
+        "8": {
+            "file_name": "5888d6b1a4c3a.js",
+            "file_path": "\/home\/elucidat\/elucidat-authoring-tool-build\/_userPublish\/production_57e3a4304b241_release_58a42f9b85704\/pages\/5888d6b1a4c3a.js",
+            "content_type": "application\/javascript"
+        },
+        "9": {
+            "file_name": "5888d6b1ab09b.js",
+            "file_path": "\/home\/elucidat\/elucidat-authoring-tool-build\/_userPublish\/production_57e3a4304b241_release_58a42f9b85704\/pages\/5888d6b1ab09b.js",
+            "content_type": "application\/javascript"
+        },
+        "10": {
+            "file_name": "5888d6b1b1120.js",
+            "file_path": "\/home\/elucidat\/elucidat-authoring-tool-build\/_userPublish\/production_57e3a4304b241_release_58a42f9b85704\/pages\/5888d6b1b1120.js",
+            "content_type": "application\/javascript"
+        },
+        "11": {
+            "file_name": "5888d6b1b7109.js",
+            "file_path": "\/home\/elucidat\/elucidat-authoring-tool-build\/_userPublish\/production_57e3a4304b241_release_58a42f9b85704\/pages\/5888d6b1b7109.js",
+            "content_type": "application\/javascript"
+        },
+        "12": {
+            "file_name": "5888d6b1bcac6.js",
+            "file_path": "\/home\/elucidat\/elucidat-authoring-tool-build\/_userPublish\/production_57e3a4304b241_release_58a42f9b85704\/pages\/5888d6b1bcac6.js",
+            "content_type": "application\/javascript"
+        },
+        "13": {
+            "file_name": "5888d6b1c2d97.js",
+            "file_path": "\/home\/elucidat\/elucidat-authoring-tool-build\/_userPublish\/production_57e3a4304b241_release_58a42f9b85704\/pages\/5888d6b1c2d97.js",
+            "content_type": "application\/javascript"
+        },
+        "14": {
+            "file_name": "5888d6b1c8716.js",
+            "file_path": "\/home\/elucidat\/elucidat-authoring-tool-build\/_userPublish\/production_57e3a4304b241_release_58a42f9b85704\/pages\/5888d6b1c8716.js",
+            "content_type": "application\/javascript"
+        },
+        "15": {
+            "file_name": "5888d6b1ce42c.js",
+            "file_path": "\/home\/elucidat\/elucidat-authoring-tool-build\/_userPublish\/production_57e3a4304b241_release_58a42f9b85704\/pages\/5888d6b1ce42c.js",
+            "content_type": "application\/javascript"
+        },
+        "16": {
+            "file_name": "5888d6b1d422a.js",
+            "file_path": "\/home\/elucidat\/elucidat-authoring-tool-build\/_userPublish\/production_57e3a4304b241_release_58a42f9b85704\/pages\/5888d6b1d422a.js",
+            "content_type": "application\/javascript"
+        },
+        "17": {
+            "file_name": "5888d6b1d9d8a.js",
+            "file_path": "\/home\/elucidat\/elucidat-authoring-tool-build\/_userPublish\/production_57e3a4304b241_release_58a42f9b85704\/pages\/5888d6b1d9d8a.js",
+            "content_type": "application\/javascript"
+        },
+        "18": {
+            "file_name": "5888d6b1dffed.js",
+            "file_path": "\/home\/elucidat\/elucidat-authoring-tool-build\/_userPublish\/production_57e3a4304b241_release_58a42f9b85704\/pages\/5888d6b1dffed.js",
+            "content_type": "application\/javascript"
+        },
+        "19": {
+            "file_name": "5888d6b1e85de.js",
+            "file_path": "\/home\/elucidat\/elucidat-authoring-tool-build\/_userPublish\/production_57e3a4304b241_release_58a42f9b85704\/pages\/5888d6b1e85de.js",
+            "content_type": "application\/javascript"
+        },
+        "20": {
+            "file_name": "5888d6b1ef237.js",
+            "file_path": "\/home\/elucidat\/elucidat-authoring-tool-build\/_userPublish\/production_57e3a4304b241_release_58a42f9b85704\/pages\/5888d6b1ef237.js",
+            "content_type": "application\/javascript"
+        },
+        "21": {
+            "file_name": "5888d6b200d25.js",
+            "file_path": "\/home\/elucidat\/elucidat-authoring-tool-build\/_userPublish\/production_57e3a4304b241_release_58a42f9b85704\/pages\/5888d6b200d25.js",
+            "content_type": "application\/javascript"
+        },
+        "22": {
+            "file_name": "5888d6b20790f.js",
+            "file_path": "\/home\/elucidat\/elucidat-authoring-tool-build\/_userPublish\/production_57e3a4304b241_release_58a42f9b85704\/pages\/5888d6b20790f.js",
+            "content_type": "application\/javascript"
+        },
+        "23": {
+            "file_name": "5888d6b20d9cd.js",
+            "file_path": "\/home\/elucidat\/elucidat-authoring-tool-build\/_userPublish\/production_57e3a4304b241_release_58a42f9b85704\/pages\/5888d6b20d9cd.js",
+            "content_type": "application\/javascript"
+        },
+        "24": {
+            "file_name": "5888d6b213b7e.js",
+            "file_path": "\/home\/elucidat\/elucidat-authoring-tool-build\/_userPublish\/production_57e3a4304b241_release_58a42f9b85704\/pages\/5888d6b213b7e.js",
+            "content_type": "application\/javascript"
+        },
+        "25": {
+            "file_name": "5888d6b219b90.js",
+            "file_path": "\/home\/elucidat\/elucidat-authoring-tool-build\/_userPublish\/production_57e3a4304b241_release_58a42f9b85704\/pages\/5888d6b219b90.js",
+            "content_type": "application\/javascript"
+        },
+        "26": {
+            "file_name": "5888d6b21fb1e.js",
+            "file_path": "\/home\/elucidat\/elucidat-authoring-tool-build\/_userPublish\/production_57e3a4304b241_release_58a42f9b85704\/pages\/5888d6b21fb1e.js",
+            "content_type": "application\/javascript"
+        },
+        "27": {
+            "file_name": "5888d6b225ac5.js",
+            "file_path": "\/home\/elucidat\/elucidat-authoring-tool-build\/_userPublish\/production_57e3a4304b241_release_58a42f9b85704\/pages\/5888d6b225ac5.js",
+            "content_type": "application\/javascript"
+        },
+        "28": {
+            "file_name": "5888d6b22b64f.js",
+            "file_path": "\/home\/elucidat\/elucidat-authoring-tool-build\/_userPublish\/production_57e3a4304b241_release_58a42f9b85704\/pages\/5888d6b22b64f.js",
+            "content_type": "application\/javascript"
+        },
+        "29": {
+            "file_name": "5888d6b2312b2.js",
+            "file_path": "\/home\/elucidat\/elucidat-authoring-tool-build\/_userPublish\/production_57e3a4304b241_release_58a42f9b85704\/pages\/5888d6b2312b2.js",
+            "content_type": "application\/javascript"
+        },
+        "30": {
+            "file_name": "5888d6b237351.js",
+            "file_path": "\/home\/elucidat\/elucidat-authoring-tool-build\/_userPublish\/production_57e3a4304b241_release_58a42f9b85704\/pages\/5888d6b237351.js",
+            "content_type": "application\/javascript"
+        },
+        "31": {
+            "file_name": "5888d6b23d13f.js",
+            "file_path": "\/home\/elucidat\/elucidat-authoring-tool-build\/_userPublish\/production_57e3a4304b241_release_58a42f9b85704\/pages\/5888d6b23d13f.js",
+            "content_type": "application\/javascript"
+        },
+        "32": {
+            "file_name": "5888d6b242bb7.js",
+            "file_path": "\/home\/elucidat\/elucidat-authoring-tool-build\/_userPublish\/production_57e3a4304b241_release_58a42f9b85704\/pages\/5888d6b242bb7.js",
+            "content_type": "application\/javascript"
+        },
+        "33": {
+            "file_name": "5888d6b248ca9.js",
+            "file_path": "\/home\/elucidat\/elucidat-authoring-tool-build\/_userPublish\/production_57e3a4304b241_release_58a42f9b85704\/pages\/5888d6b248ca9.js",
+            "content_type": "application\/javascript"
+        },
+        "34": {
+            "file_name": "5888d6b24e75c.js",
+            "file_path": "\/home\/elucidat\/elucidat-authoring-tool-build\/_userPublish\/production_57e3a4304b241_release_58a42f9b85704\/pages\/5888d6b24e75c.js",
+            "content_type": "application\/javascript"
+        },
+        "35": {
+            "file_name": "5888d6b254e6c.js",
+            "file_path": "\/home\/elucidat\/elucidat-authoring-tool-build\/_userPublish\/production_57e3a4304b241_release_58a42f9b85704\/pages\/5888d6b254e6c.js",
+            "content_type": "application\/javascript"
+        },
+        "36": {
+            "file_name": "5888d6b25af9b.js",
+            "file_path": "\/home\/elucidat\/elucidat-authoring-tool-build\/_userPublish\/production_57e3a4304b241_release_58a42f9b85704\/pages\/5888d6b25af9b.js",
+            "content_type": "application\/javascript"
+        },
+        "37": {
+            "file_name": "5888d6b26116f.js",
+            "file_path": "\/home\/elucidat\/elucidat-authoring-tool-build\/_userPublish\/production_57e3a4304b241_release_58a42f9b85704\/pages\/5888d6b26116f.js",
+            "content_type": "application\/javascript"
+        },
+        "38": {
+            "file_name": "5888d6b266c33.js",
+            "file_path": "\/home\/elucidat\/elucidat-authoring-tool-build\/_userPublish\/production_57e3a4304b241_release_58a42f9b85704\/pages\/5888d6b266c33.js",
+            "content_type": "application\/javascript"
+        },
+        "39": {
+            "file_name": "5888d6b26c5b5.js",
+            "file_path": "\/home\/elucidat\/elucidat-authoring-tool-build\/_userPublish\/production_57e3a4304b241_release_58a42f9b85704\/pages\/5888d6b26c5b5.js",
+            "content_type": "application\/javascript"
+        },
+        "40": {
+            "file_name": "5888d6b272eff.js",
+            "file_path": "\/home\/elucidat\/elucidat-authoring-tool-build\/_userPublish\/production_57e3a4304b241_release_58a42f9b85704\/pages\/5888d6b272eff.js",
+            "content_type": "application\/javascript"
+        },
+        "41": {
+            "file_name": "5888d6b27923b.js",
+            "file_path": "\/home\/elucidat\/elucidat-authoring-tool-build\/_userPublish\/production_57e3a4304b241_release_58a42f9b85704\/pages\/5888d6b27923b.js",
+            "content_type": "application\/javascript"
+        },
+        "42": {
+            "file_name": "5888d6b27f17e.js",
+            "file_path": "\/home\/elucidat\/elucidat-authoring-tool-build\/_userPublish\/production_57e3a4304b241_release_58a42f9b85704\/pages\/5888d6b27f17e.js",
+            "content_type": "application\/javascript"
+        },
+        "43": {
+            "file_name": "5888d6b2850f4.js",
+            "file_path": "\/home\/elucidat\/elucidat-authoring-tool-build\/_userPublish\/production_57e3a4304b241_release_58a42f9b85704\/pages\/5888d6b2850f4.js",
+            "content_type": "application\/javascript"
+        },
+        "44": {
+            "file_name": "5888d6b28b28a.js",
+            "file_path": "\/home\/elucidat\/elucidat-authoring-tool-build\/_userPublish\/production_57e3a4304b241_release_58a42f9b85704\/pages\/5888d6b28b28a.js",
+            "content_type": "application\/javascript"
+        },
+        "45": {
+            "file_name": "5888d6b291a91.js",
+            "file_path": "\/home\/elucidat\/elucidat-authoring-tool-build\/_userPublish\/production_57e3a4304b241_release_58a42f9b85704\/pages\/5888d6b291a91.js",
+            "content_type": "application\/javascript"
+        },
+        "46": {
+            "file_name": "5888d6b2976fc.js",
+            "file_path": "\/home\/elucidat\/elucidat-authoring-tool-build\/_userPublish\/production_57e3a4304b241_release_58a42f9b85704\/pages\/5888d6b2976fc.js",
+            "content_type": "application\/javascript"
+        },
+        "47": {
+            "file_name": "5888d6b29d429.js",
+            "file_path": "\/home\/elucidat\/elucidat-authoring-tool-build\/_userPublish\/production_57e3a4304b241_release_58a42f9b85704\/pages\/5888d6b29d429.js",
+            "content_type": "application\/javascript"
+        },
+        "48": {
+            "file_name": "5888d6b2a3a0a.js",
+            "file_path": "\/home\/elucidat\/elucidat-authoring-tool-build\/_userPublish\/production_57e3a4304b241_release_58a42f9b85704\/pages\/5888d6b2a3a0a.js",
+            "content_type": "application\/javascript"
+        },
+        "49": {
+            "file_name": "5888d6b2aa759.js",
+            "file_path": "\/home\/elucidat\/elucidat-authoring-tool-build\/_userPublish\/production_57e3a4304b241_release_58a42f9b85704\/pages\/5888d6b2aa759.js",
+            "content_type": "application\/javascript"
+        },
+        "50": {
+            "file_name": "5888d6b2b0263.js",
+            "file_path": "\/home\/elucidat\/elucidat-authoring-tool-build\/_userPublish\/production_57e3a4304b241_release_58a42f9b85704\/pages\/5888d6b2b0263.js",
+            "content_type": "application\/javascript"
+        },
+        "51": {
+            "file_name": "5888d6b2b5ee4.js",
+            "file_path": "\/home\/elucidat\/elucidat-authoring-tool-build\/_userPublish\/production_57e3a4304b241_release_58a42f9b85704\/pages\/5888d6b2b5ee4.js",
+            "content_type": "application\/javascript"
+        },
+        "52": {
+            "file_name": "5888d6b2bbfc9.js",
+            "file_path": "\/home\/elucidat\/elucidat-authoring-tool-build\/_userPublish\/production_57e3a4304b241_release_58a42f9b85704\/pages\/5888d6b2bbfc9.js",
+            "content_type": "application\/javascript"
+        },
+        "53": {
+            "file_name": "5888d6b2c27ca.js",
+            "file_path": "\/home\/elucidat\/elucidat-authoring-tool-build\/_userPublish\/production_57e3a4304b241_release_58a42f9b85704\/pages\/5888d6b2c27ca.js",
+            "content_type": "application\/javascript"
+        },
+        "54": {
+            "file_name": "5888d6b2c8a1b.js",
+            "file_path": "\/home\/elucidat\/elucidat-authoring-tool-build\/_userPublish\/production_57e3a4304b241_release_58a42f9b85704\/pages\/5888d6b2c8a1b.js",
+            "content_type": "application\/javascript"
+        },
+        "55": {
+            "file_name": "5888d6b2ce5f1.js",
+            "file_path": "\/home\/elucidat\/elucidat-authoring-tool-build\/_userPublish\/production_57e3a4304b241_release_58a42f9b85704\/pages\/5888d6b2ce5f1.js",
+            "content_type": "application\/javascript"
+        },
+        "56": {
+            "file_name": "5888d6b2d42c4.js",
+            "file_path": "\/home\/elucidat\/elucidat-authoring-tool-build\/_userPublish\/production_57e3a4304b241_release_58a42f9b85704\/pages\/5888d6b2d42c4.js",
+            "content_type": "application\/javascript"
+        },
+        "57": {
+            "file_name": "5888d6b2d9ea0.js",
+            "file_path": "\/home\/elucidat\/elucidat-authoring-tool-build\/_userPublish\/production_57e3a4304b241_release_58a42f9b85704\/pages\/5888d6b2d9ea0.js",
+            "content_type": "application\/javascript"
+        },
+        "58": {
+            "file_name": "5888d6b2dfd27.js",
+            "file_path": "\/home\/elucidat\/elucidat-authoring-tool-build\/_userPublish\/production_57e3a4304b241_release_58a42f9b85704\/pages\/5888d6b2dfd27.js",
+            "content_type": "application\/javascript"
+        },
+        "59": {
+            "file_name": "5888d6b2e593e.js",
+            "file_path": "\/home\/elucidat\/elucidat-authoring-tool-build\/_userPublish\/production_57e3a4304b241_release_58a42f9b85704\/pages\/5888d6b2e593e.js",
+            "content_type": "application\/javascript"
+        },
+        "60": {
+            "file_name": "5888d6b2eba48.js",
+            "file_path": "\/home\/elucidat\/elucidat-authoring-tool-build\/_userPublish\/production_57e3a4304b241_release_58a42f9b85704\/pages\/5888d6b2eba48.js",
+            "content_type": "application\/javascript"
+        },
+        "61": {
+            "file_name": "5888d6b2f24c2.js",
+            "file_path": "\/home\/elucidat\/elucidat-authoring-tool-build\/_userPublish\/production_57e3a4304b241_release_58a42f9b85704\/pages\/5888d6b2f24c2.js",
+            "content_type": "application\/javascript"
+        },
+        "62": {
+            "file_name": "5888d6b3045a3.js",
+            "file_path": "\/home\/elucidat\/elucidat-authoring-tool-build\/_userPublish\/production_57e3a4304b241_release_58a42f9b85704\/pages\/5888d6b3045a3.js",
+            "content_type": "application\/javascript"
+        },
+        "63": {
+            "file_name": "5888d6b30ac86.js",
+            "file_path": "\/home\/elucidat\/elucidat-authoring-tool-build\/_userPublish\/production_57e3a4304b241_release_58a42f9b85704\/pages\/5888d6b30ac86.js",
+            "content_type": "application\/javascript"
+        },
+        "64": {
+            "file_name": "5888d6b31096d.js",
+            "file_path": "\/home\/elucidat\/elucidat-authoring-tool-build\/_userPublish\/production_57e3a4304b241_release_58a42f9b85704\/pages\/5888d6b31096d.js",
+            "content_type": "application\/javascript"
+        },
+        "65": {
+            "file_name": "5888d6b316351.js",
+            "file_path": "\/home\/elucidat\/elucidat-authoring-tool-build\/_userPublish\/production_57e3a4304b241_release_58a42f9b85704\/pages\/5888d6b316351.js",
+            "content_type": "application\/javascript"
+        },
+        "66": {
+            "file_name": "5888d6b31c3fc.js",
+            "file_path": "\/home\/elucidat\/elucidat-authoring-tool-build\/_userPublish\/production_57e3a4304b241_release_58a42f9b85704\/pages\/5888d6b31c3fc.js",
+            "content_type": "application\/javascript"
+        },
+        "launch.html": {
+            "file_name": "launch.html",
+            "file_path": "\/home\/elucidat\/elucidat-authoring-tool-build\/_userPublish\/production_57e3a4304b241_release_58a42f9b85704\/launch.html",
+            "content_type": "text\/html"
+        },
+        "67": {
+            "file_name": "login.html",
+            "file_path": "\/home\/elucidat\/elucidat-authoring-tool-build\/_userPublish\/production_57e3a4304b241_release_58a42f9b85704\/login.html",
+            "content_type": "text\/html"
+        }
+    },
+    "homepage_url": "5888d6b1831b0.js",
+    "css_url": "58a42f9b85704.css",
+    "js_url": "58a42f9b85704.js",
+    "cdn_url": ""
+}
